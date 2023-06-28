@@ -15,3 +15,7 @@ Numaralar 1'den başlar ve 9'a kadar ilerler.
 # Örnek Oynanış:
 
 ![image](https://user-images.githubusercontent.com/81961593/216389588-3c1b82ad-feaf-4ec5-b36e-b513ec3951c9.png)
+
+# Botun kullandığı algoritma:
+
+https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy
